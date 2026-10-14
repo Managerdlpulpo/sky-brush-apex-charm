@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Peso",
+      "hasCanvas": false,
+      "bodyTextLen": 39,
+      "bodyTextHash": "4aaab9c5a124a4a60335d845a2b215d810d38ebffd8e4e219737775cdfbb37ff",
+      "bodyTextPrefix": "PLAZA COTIDIANA Peso Abriendo la calle…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Peso",
+      "hasCanvas": false,
+      "bodyTextLen": 39,
+      "bodyTextHash": "4aaab9c5a124a4a60335d845a2b215d810d38ebffd8e4e219737775cdfbb37ff",
+      "bodyTextPrefix": "PLAZA COTIDIANA Peso Abriendo la calle…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
